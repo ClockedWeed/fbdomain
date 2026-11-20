@@ -1,7 +1,7 @@
-# ai-sni-proxy bundled domain list
-# Used only when the client cannot reach the published list.
+# ai-sni-proxy domain list
 # groups: ai jetbrains
-# built: 2026-10-20
+# built: 2026-10-21
+# count: 924
 # original creator: github.com/SteepMans/ai-sni-proxy
 ai.studio
 aistudio.google.com
@@ -159,16 +159,39 @@ platform.api.openai.com
 platform.openai.com
 privacy-pass-issuer.api.chatgpt.com
 realtime.chatgpt.com
+sdmntpraustraliaeast.oaiusercontent.com
+sdmntprbrazilsouth.oaiusercontent.com
+sdmntprcentralindia.oaiusercontent.com
+sdmntprcentralus.oaiusercontent.com
+sdmntpreastus.oaiusercontent.com
+sdmntpreastus2.oaiusercontent.com
+sdmntpritalynorth.oaiusercontent.com
+sdmntprjapaneast.oaiusercontent.com
+sdmntprkoreacentral.oaiusercontent.com
+sdmntprnorthcentralus.oaiusercontent.com
+sdmntprnortheu.oaiusercontent.com
+sdmntprnortheurope.oaiusercontent.com
+sdmntprpolandcentral.oaiusercontent.com
+sdmntprsouthcentralus.oaiusercontent.com
+sdmntprukwest.oaiusercontent.com
+sdmntprwestcentralus.oaiusercontent.com
+sdmntprwestus.oaiusercontent.com
+sdmntprwestus2.oaiusercontent.com
+sdmntprwestus3.oaiusercontent.com
 search.chatgpt.com
+sora-cdn.oaistatic.com
 sora.chatgpt.com
+sora.com
 spinningup.openai.com
 tcr9i.chat.openai.com
 universe.openai.com
+videos.openai.com
 webrtc-staging.chatgpt.com
 webrtc.chatgpt.com
 ws.chatgpt.com
 www.chatgpt.com
 www.openai.com
+www.sora.com
 a-api.anthropic.com
 a-cdn.anthropic.com
 a-cdn.claude.ai
@@ -899,9 +922,3 @@ grazie.ai
 grazie.aws.intellij.net
 oauth.account.jetbrains.com
 proxy.app.internal.prod.grazie.aws.intellij.net
-youtu.be
-youtube-nocookie.com
-ytimg.com
-i.ytimg.com
-ggpht.com
-googlevideo.com
