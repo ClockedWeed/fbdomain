@@ -899,9 +899,6 @@ grazie.ai
 grazie.aws.intellij.net
 oauth.account.jetbrains.com
 proxy.app.internal.prod.grazie.aws.intellij.net
-youtube.com
-www.youtube.com
-m.youtube.com
 youtu.be
 youtube-nocookie.com
 ytimg.com
